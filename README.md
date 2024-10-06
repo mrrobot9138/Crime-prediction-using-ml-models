@@ -1,5 +1,5 @@
 # Crime-prediction-using-ml-models
-This project explores the feasibility of machine learning models in predicting human criminal behavior based on historical criminal records
+This project explores the feasibility of machine learning models in predicting human criminal behavior based on historical criminal records. For detailed information on this project, please refer to the research paper available at: https://link.springer.com/chapter/10.1007/978-3-031-59100-6_4
 # Crime Rate Prediction Model
 
 ## Overview
